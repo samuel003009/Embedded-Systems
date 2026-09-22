@@ -8,8 +8,7 @@ Blinking with an externally added LED
 ## Lab2 LED+DH11+SR04
 1. Blinking an LED if the distance received from SR04 is lower than a given threshold
 2. Blinking an LED if the temperature and/or humidity from DHT11 are higher than a given threshold.
-### 影片連結 : 1. https://youtu.be/Z8qd6PwdnrY
-           2. https://youtu.be/r5xhr5hkEHw
+### 影片連結 : 1. https://youtu.be/Z8qd6PwdnrY 2. https://youtu.be/r5xhr5hkEHw
 
 ## Lab3 Bluetooth Connection
 1. Connect Arduino and a mobile handset (Android or Iphone) via HC05, BT05, or HM-10 to transfer characters and show your name and student ID on the screen of the PC monitor or the mobile handset.
