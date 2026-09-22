@@ -1,5 +1,5 @@
 # Embedded-Systems
-Embedded systems lab1-lab8
+Embedded systems lab1-lab8, midterm, final
 
 ## Lab1 LED Blinking
 Blinking with an externally added LED
